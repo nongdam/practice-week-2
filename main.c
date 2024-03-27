@@ -7,3 +7,7 @@ int minus(int x, int y){
 int plus(int x, int y){
     return x + y;
 }
+
+int multiple(itn x, int y){
+    return x * y;
+}
